@@ -11,12 +11,8 @@
       "distribution": "internal"
     },
     "production": {
-      "android": {
-        "image": "latest"
-      },
-      "ios": {
-        "image": "latest"
-      }
+      "android": {},
+      "ios": {}
     }
   },
   "submit": {
