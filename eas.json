@@ -11,8 +11,12 @@
       "distribution": "internal"
     },
     "production": {
-      "android": {},
-      "ios": {}
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      }
     }
   },
   "submit": {
