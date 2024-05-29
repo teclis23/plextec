@@ -22,10 +22,12 @@
   "submit": {
     "production": {
       "android": {
-        "image": "latest"
+        "image": "latest",
+        "track": "internal"
       },
       "ios": {
-        "image": "latest"
+        "image": "latest",
+        "track": "internal"
       }
     }
   }
